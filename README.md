@@ -1,3 +1,5 @@
+# Paper from Traffic4Cast and IR 2 RGB video translation
+Write-up and findings here: https://github.com/Rose-STL-Lab/ir2rgb/blob/master/DL%20Methods%20for%20Video%20Prediction.pdf
 
 # IR 2 RGB video translation
 
